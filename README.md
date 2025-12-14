@@ -1,4 +1,4 @@
 # Simple
-<h1 style="background-color:orange">This is my first github account Project</h1>
-<br>
-<h3 style="background-color:red">Auther:Gajanan Sambhaji Pade</h3>
+<h1>JUST WE DOING THE TESTING THE GIT SKILL</H1>
+
+<h3>GAJANAN SAMBHAJI PADE</h3>
